@@ -1,0 +1,50 @@
+h2{
+  font-weight: bolder;
+  font-style: italic;
+  font-family: serif;
+  text-align: center;
+  color: green;
+  height: 50px
+
+}
+
+body{
+  background-color: lightblue;
+}
+
+
+
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.top {
+  margin:auto;
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.middle {
+  margin: auto;
+
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.buttom {
+  margin-bottom: 0px;
+  background-color: gold;
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+p {
+  font-size: rgba(255, 0, 0, 0.5);
+  font-style: oblique;
+  padding:auto;
+
+}

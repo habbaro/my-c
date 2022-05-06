@@ -1,0 +1,27 @@
+.contact{
+  background-color: lightblue;
+  color: red;
+  border: solid 1px;
+  margin: auto;
+  padding: 20px;
+
+
+}
+.family{
+  border: solid 2px;
+  border-radius: 20px;
+  padding: 10px;
+  margin: auto;
+  color: blue;
+  background-color: lightgray;
+}
+.open{
+  height: auto;
+  width: auto;
+  color:blue;
+  background-color: cyan;
+  border-radius: 20px;
+  border: solid 1px;
+  margin: auto;
+  padding: 10px;
+}
